@@ -1,1 +1,1 @@
-Creating a new readme file.
+Starting out with Github. Please support me along my journey.
